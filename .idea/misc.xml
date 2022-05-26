@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 2/Tutorial/Exercise 2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2455" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 2/Tutorial/Exercise 2/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 2/Tutorial/Exercise 2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout/activity_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout/activity_message_group.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout/fragment_group1.xml" value="0.25416666666666665" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 3/Tutorial/Exercise 3/app/src/main/res/layout/fragment_group2.xml" value="0.25416666666666665" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout/activity_list.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout/fragment_group1.xml" value="0.25416666666666665" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout/recycler_view_row.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 4/Tutorial/Exercise 4/app/src/main/res/layout/recycler_view_row2.xml" value="0.176" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 6/Tutorial/Exercise 6/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/CSFS Course/Year 2 Sem 1/Mobile App Development/Week 6/Tutorial/Exercise 6/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
